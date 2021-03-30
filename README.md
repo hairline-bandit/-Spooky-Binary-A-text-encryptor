@@ -5,3 +5,5 @@ There are 2 versions, 1 without an extra text file and 1 with. The one without h
 Just do what the code prompts as there are no other needed instructions. You don't need to download any modules (unless from some odd reason you don't have the built in "string" module)
 
 As of 3/27/21 there is a GoLang version in the "1_file_version" folder for people who want a compiled language.
+
+3/30/21 uploaded "V2" GoLang encryptor file that has a shortened "encrypt" function.
